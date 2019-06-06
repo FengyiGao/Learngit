@@ -3,4 +3,6 @@ Git is free software distributed under the GPL.
 This is a new line.
 Git track change a file.
 Another test.
-create a new branch is quick && simple.
+
+create a new branch is quick and SIMPLE.
+
